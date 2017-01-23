@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_a7888d546b96a1659d2a5bf46947969acda62d8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8814992c479a3a747076fa1f03a3cb3d83fd9f9c">
+        <dex dex="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3403f16a98cd74016a3eb28523bc7b6800b89144\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sumitranchi003\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_7a10f41d71cead74d98a78edde9a3cb503bae017\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_7babe12fdf080188e183edb85eb60caab47cf571\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_cd4aee4dc92b83b20b74c8925ffbcfe67d5017c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_42d46544cea3c9e30a04b71cfeaee5cd5b1a6046\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_e356ed664da12d00885f3e8088f9007dfe540aef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4bbca677641573febc6704520d5f4167aa94a7ed">
+        <dex dex="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cf251dbed5ba4ee8b62e2f05a81b0020a19bb5bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\sumitranchi003\Documents\StudentsAssignment\AndroidLogandReg\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_1b4257d99d3343400a34b5f43d70f491d9ed7bfa\classes.dex" />
+    </item>
+
+</items>

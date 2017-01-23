@@ -1,0 +1,7 @@
+#Mon Jan 23 12:06:46 IST 2017
+base.0=C\:\\Users\\sumitranchi003\\Documents\\StudentsAssignment\\AndroidLogandReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3403f16a98cd74016a3eb28523bc7b6800b89144
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\sumitranchi003\\Documents\\StudentsAssignment\\AndroidLogandReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cf251dbed5ba4ee8b62e2f05a81b0020a19bb5bd\\classes.dex
+base.1=C\:\\Users\\sumitranchi003\\Documents\\StudentsAssignment\\AndroidLogandReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cf251dbed5ba4ee8b62e2f05a81b0020a19bb5bd
+file.0=C\:\\Users\\sumitranchi003\\Documents\\StudentsAssignment\\AndroidLogandReg\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3403f16a98cd74016a3eb28523bc7b6800b89144\\classes.dex
